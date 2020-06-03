@@ -1,0 +1,10 @@
+﻿  main.c
+  C:/Users/user/STM32_Projects/Push-Pull/Core/Src/main.c: In function 'main':
+C:\Users\user\STM32_Projects\Push-Pull\Core\Src\main.c(201,6): warning :  implicit declaration of function 'itoa' [-Wimplicit-function-declaration]
+    201 |      itoa(i, str, 10);
+        |      ^~~~
+  Linking VisualGDB/Debug/Push-Pull...
+  ------------------- Memory utilization report -------------------
+  Used FLASH: 16KB out of 1024KB (1%) [+344]
+  Used SRAM: 224 bytes out of 128KB (0%)
+  Used CCMRAM: 0 bytes out of 64KB (0%)

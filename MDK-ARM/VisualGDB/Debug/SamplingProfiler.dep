@@ -1,0 +1,11 @@
+VisualGDB/Debug/SamplingProfiler.o: \
+ C:/Users/user/AppData/Local/VisualGDB/EmbeddedEFPs/Profiler/SamplingProfiler.cpp \
+ C:/Users/user/AppData/Local/VisualGDB/EmbeddedEFPs/Profiler/ProfilerFreeRTOSHooks.h \
+ C:/Users/user/AppData/Local/VisualGDB/EmbeddedEFPs/Profiler/SysprogsProfilerInterface.h \
+ C:/Users/user/AppData/Local/VisualGDB/EmbeddedEFPs/Profiler/SmallNumberCoder.h
+
+C:/Users/user/AppData/Local/VisualGDB/EmbeddedEFPs/Profiler/ProfilerFreeRTOSHooks.h:
+
+C:/Users/user/AppData/Local/VisualGDB/EmbeddedEFPs/Profiler/SysprogsProfilerInterface.h:
+
+C:/Users/user/AppData/Local/VisualGDB/EmbeddedEFPs/Profiler/SmallNumberCoder.h:

@@ -1,0 +1,5 @@
+VisualGDB/Debug/ProfilerRTOS_FreeRTOS.o: \
+ C:/Users/user/AppData/Local/VisualGDB/EmbeddedEFPs/Profiler/ProfilerRTOS_FreeRTOS.c \
+ C:/Users/user/AppData/Local/VisualGDB/EmbeddedEFPs/Profiler/ProfilerFreeRTOSHooks.h
+
+C:/Users/user/AppData/Local/VisualGDB/EmbeddedEFPs/Profiler/ProfilerFreeRTOSHooks.h:
